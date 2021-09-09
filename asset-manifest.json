@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/conceptssReact/static/js/main.f19e8c98.chunk.js",
+    "main.js.map": "/conceptssReact/static/js/main.f19e8c98.chunk.js.map",
+    "runtime-main.js": "/conceptssReact/static/js/runtime-main.144e700a.js",
+    "runtime-main.js.map": "/conceptssReact/static/js/runtime-main.144e700a.js.map",
+    "static/js/2.dc243cb2.chunk.js": "/conceptssReact/static/js/2.dc243cb2.chunk.js",
+    "static/js/2.dc243cb2.chunk.js.map": "/conceptssReact/static/js/2.dc243cb2.chunk.js.map",
+    "index.html": "/conceptssReact/index.html",
+    "static/js/2.dc243cb2.chunk.js.LICENSE.txt": "/conceptssReact/static/js/2.dc243cb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.144e700a.js",
+    "static/js/2.dc243cb2.chunk.js",
+    "static/js/main.f19e8c98.chunk.js"
+  ]
+}
